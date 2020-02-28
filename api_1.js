@@ -1,9 +1,11 @@
 [{
+    "content_id": 1,
     "title": " ",
-    "img_url": "http:\/\/localhost\/appfile\/7e059f038b9412a61f13d95f2e86a943.jpg",
+    "img_url": "https:\/\/picassogithub.github.io\/appfile\/rock.jpg",
     "article_content": " "
-}, {"title": " ", "img_url": "http:\/\/localhost\/appfile\/ball.png", "article_content": " "}, {
+}, {
+    "content_id": 2,
     "title": " ",
-    "img_url": "http:\/\/localhost\/appfile\/rock.jpg",
+    "img_url": "https:\/\/picassogithub.github.io\/appfile\/rock.jpg",
     "article_content": " "
 }]
